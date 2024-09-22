@@ -6,14 +6,14 @@
     <description>Recent content on Synthesis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 14:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
+      <title>Posts</title>
       <link>//localhost:1313/docs/getting-started/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 14:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Customization</title>
@@ -32,9 +32,9 @@
     <item>
       <title>About</title>
       <link>//localhost:1313/about/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Sep 2024 14:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.&#xA;About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
+      <description>Expansiveness&#xA;About Synthesis Synthesis publishes articles and writings about health, wellness, adventure, and spirituality.&#xA;, Table of Contents, SVG icons and much more…&#xA;Learn more on GitHub. Mainroad theme is released under the GPLv2 license.&#xA;About Hugo Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.</description>
     </item>
     <item>
       <title>Basic HTML Elements</title>
