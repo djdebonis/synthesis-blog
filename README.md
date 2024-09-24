@@ -1,2 +1,1 @@
-# synthesis-blog
-Synthesis Blog
+ynthesis Blog
